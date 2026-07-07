@@ -65,7 +65,7 @@ async def cmd_exit(language: str):
     sys.exit(0)
 
 SCRIPT_MAP = {
-    "social": run_social,
+    "socialX": run_socialX,
     "checkin": run_checkin,
     "connect": run_connect,
     "bonus": run_bonus,
