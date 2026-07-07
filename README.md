@@ -1,4 +1,4 @@
-# Xeffy Bot Scripts 🚀
+# AlloX Bot Scripts 🚀
 
 This collection of Python scripts automates tasks on the [AlloX](https://app.allox.ai?r=b04cf5) platform — an AI-powered crypto portfolio platform where users earn points by completing social tasks, daily check-ins, Twitter/X account linking, and welcome bonus claims.
 
